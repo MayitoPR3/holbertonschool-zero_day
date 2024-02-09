@@ -1,0 +1,6 @@
+# Things to practice #
+1. Add, Commit, Push to Git
+2. Create branches and use git checkout -b name of branch
+3. Add, commit -m  filename, push git push origin branch_name
+4. Practice pulling and merging branches 
+5. Read everything back again to understand everything from 0 and refresh memory
